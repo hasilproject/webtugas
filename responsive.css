@@ -65,6 +65,60 @@
 	transition:all .25s;
 	border-color: #006d6d;
 }
+#mySidenav a:hover {
+	 left: 0;
+}
+#line {
+	  top: 20px;
+	  background-color: #4CAF50;
+}
+#line img {
+	  width: 50px;
+	  height: 50px;
+	  position: absolute;
+	  margin-left: 53px;
+	  padding: -10px;
+	  margin-top: -14px;
+	  border-radius: 10px;
+}
+#pinterest {
+	  top: 80px;
+	  background-color: #ff6666;
+}
+#pinterest img {
+	  width: 52px;
+	  height: 50px;
+	  position: absolute;
+	  margin-left: 5px;
+	  padding: -5px;
+	  margin-top: -13px;
+	  border-radius: 10px;
+}
+#telegram {
+	  top: 140px;
+	  background-color: #2196F3;
+}
+#telegram img {
+	  width: 50px;
+	  height: 50px;
+	  position: absolute;
+	  padding: -20px;
+	  margin-top: -14px;
+	  margin-left: 5px;
+}
+#youtube {
+	  top: 200px;
+	  background-color: #cc0000;
+}
+#youtube img {
+	  width: 52px;
+	  height: 50px;
+	  position: absolute;
+	  margin-left: 23px;
+	  padding: -10px;
+	  margin-top: -14px;
+	  border-radius: 5px;
+}
 }
 
 /* Untuk Smartphone */
@@ -208,7 +262,7 @@ nav ul.slide {
 	  width: 52px;
 	  height: 50px;
 	  position: absolute;
-	  margin-left: 20px;
+	  margin-left: 5px;
 	  padding: -5px;
 	  margin-top: -13px;
 	  border-radius: 10px;
@@ -223,7 +277,7 @@ nav ul.slide {
 	  position: absolute;
 	  padding: -20px;
 	  margin-top: -14px;
-	  margin-left: 15px;
+	  margin-left: 5px;
 }
 #youtube {
 	  top: 200px;
@@ -236,7 +290,7 @@ nav ul.slide {
 	  margin-left: 23px;
 	  padding: -10px;
 	  margin-top: -14px;
-	  border-radius: 10px;
+	  border-radius: 5px;
 }
 }
 
