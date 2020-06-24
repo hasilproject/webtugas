@@ -195,7 +195,7 @@ nav ul.slide {
 	  width: 50px;
 	  height: 50px;
 	  position: absolute;
-	  margin-left: 54px;
+	  margin-left: 52px;
 	  padding: -10px;
 	  margin-top: -14px;
 	  border-radius: 10px;
@@ -208,7 +208,7 @@ nav ul.slide {
 	  width: 52px;
 	  height: 50px;
 	  position: absolute;
-	  margin-left: 55px;
+	  margin-left: -55px;
 	  padding: -5px;
 	  margin-top: -13px;
 	  border-radius: 10px;
@@ -223,7 +223,7 @@ nav ul.slide {
 	  position: absolute;
 	  padding: -20px;
 	  margin-top: -14px;
-	  margin-left: 55px;
+	  margin-left: -55px;
 }
 #youtube {
 	  top: 200px;
@@ -236,7 +236,7 @@ nav ul.slide {
 	  margin-left: 55px;
 	  padding: -10px;
 	  margin-top: -14px;
-	  border-radius: 5px;
+	  border-radius: 10px;
 }
 }
 
