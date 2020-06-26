@@ -208,10 +208,11 @@ nav ul.slide {
 	  width: 50px;
 	  height: 50px;
 	  position: absolute;
-	  margin-left: 20px;
+	  margin-left: 15px;
 	  padding: -10px;
 	  margin-top: -14px;
 	  border-radius: 10px;
+	  position: fixed;
 }
 #telegram {
 	  top: 140px;
@@ -221,10 +222,11 @@ nav ul.slide {
 	  width: 50px;
 	  height: 50px;
 	  position: absolute;
-	  margin-left: 20px;
+	  margin-left: 15px;
 	  padding: -10px;
 	  margin-top: -14px;
 	  border-radius: 10px;
+	  position: fixed;
 }
 #youtube {
 	  top: 200px;
@@ -238,6 +240,7 @@ nav ul.slide {
 	  padding: -10px;
 	  margin-top: -14px;
 	  border-radius: 10px;
+	  position: fixed;
 }
 }
 
