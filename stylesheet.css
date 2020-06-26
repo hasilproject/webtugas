@@ -521,3 +521,9 @@ label {
   margin-top: -14px;
   border-radius: 10px;
 }
+.runningteksinfo {
+  color: #fff;
+  font-size: 20px;
+  margin-top: 5px;
+  font-family: "arial" !important;
+}
